@@ -1,0 +1,21 @@
+.all{
+    text-align: center;
+    background-image:url(./img/IMG_20211002_095245_547.jpg);
+    padding: 100px;
+    margin: 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.ski{
+    color: aliceblue;
+}
+
+.name{
+    font-size:xx-large;
+    color: aliceblue;
+}
+.defi{
+    font-size: small;
+    color: aliceblue;
+}
